@@ -6,5 +6,5 @@ def help_inline():
         [InlineKeyboardButton("🧠 Summarize", callback_data="summarize_help")],
         [InlineKeyboardButton("💬 Ask AI", callback_data="ask_help")],
         [InlineKeyboardButton("📂 Upload Files", callback_data="upload_help")],
-        [InlineKeyboardButton("💻 Source Code", url="https://github.com/yourusername/ai-file-assistant-bot")]
+        [InlineKeyboardButton("💻 Source Code", url="https://github.com/TheJinWooSung/FileAssistant")]
     ])
